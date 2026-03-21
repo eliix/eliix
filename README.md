@@ -1,5 +1,11 @@
-![My image](assets/logo.png)
-<!--
+<!-- ![My image](assets/logo.png) -->
+
+<p align="center">
+  <img src="assets/logo.png" alt="eliix logo" height="300" width="400">
+</p>
+
+
+<!--s
 **eliix/eliix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
