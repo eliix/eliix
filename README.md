@@ -1,5 +1,4 @@
-## Hi there 👋
-
+![My image](assets/logo.png)
 <!--
 **eliix/eliix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
