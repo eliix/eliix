@@ -118,10 +118,10 @@
   <table style="border-collapse: separate; border-spacing: 10px; border: 1px solid #e1e4e8; border-radius: 10px; width: 100%;">
     <thead>
       <tr>
-        <th align="center" width="25%">Ｆｒｏｎｔｅｎｄ
+        <th align="center" width="25%">Ｆｒｏｎ
         </th>
-        <th align="center" width="25%">Ｂａｃｋｅｎｄ</th>
-        <th align="center" width="25%">Ｄａｔａｂａｓｅｓ</th>
+        <th align="center" width="25%">Ｂａｃｋ</th>
+        <th align="center" width="25%">Ｄａｔａ</th>
         <th align="center" width="25%">Ｔｏｏｌｓ</th></tr>
     </thead>
     <tbody>
