@@ -1,7 +1,7 @@
 <!-- ![My image](assets/logo.png) -->
 
 <p align="center">
-  <img src="assets/logo.png" alt="eliix logo" height="100" width="400">
+  <img src="assets/logo.png" alt="eliix logo" height="100" width="300">
 </p>
 
 <div align="center">
