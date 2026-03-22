@@ -36,11 +36,11 @@
 
 ## <img src="https://media.tenor.com/a2m-Y3dLmD0AAAAj/mona-github-loading-github.gif" width="30px"> Nice to meet you
 
- ⭑ My name is **Eli** and I'm 21 y/o
+ ⭑ My name is **Eli** and I'm 21 y/o <img src="assets/girl.svg" width="20" height="18" alt="Graduate Cap" />
  
- ⭑ Senior Software Development Student
+ ⭑ Senior Software Development Student <img src="assets/school.svg" width="20" height="18" alt="Graduate Cap" />
  
- ⭑ Specializing in **Backend Development**
+ ⭑ Specializing in **Backend Development** <img src="assets/web.svg" width="20" height="18" alt="Graduate Cap" />
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Technologies i work with
