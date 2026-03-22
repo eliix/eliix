@@ -34,7 +34,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliix&layout=compact&theme=material-palenight&border_radius=10" />
 </p>
 
-## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Nice to meet you
+## <img src="https://media.tenor.com/a2m-Y3dLmD0AAAAj/mona-github-loading-github.gif" width="30px"> Nice to meet you
 
  ⭑ My name is **Eli** and I'm 21 y/o
  
