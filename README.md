@@ -64,37 +64,3 @@
 <code><a href="https://www.docker.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"></a></code>
 <code><a href="https://git-scm.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></a></code>
 
-<!-- <table>
-  <tr>
-    <td align="center" width="50%" style="border-radius: 12px; padding: 16px;">
-      <h3>🎨 Frontend</h3>
-      <code><a href="https://www.w3schools.com/html/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></a></code>
-      <code><a href="https://www.w3schools.com/css/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a></code>
-      <code><a href="https://www.javascript.com/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a></code>
-    </td>
-    <td align="center" width="50%" style="border-radius: 12px; padding: 16px;">
-      <h3>⚙️ Backend</h3>
-      <code><a href="https://www.python.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></a></code>
-      <code><a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></a></code>
-      <code><a href="https://flask.palletsprojects.com/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg"></a></code>
-      <code><a href="https://fastapi.tiangolo.com/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg"></a></code>
-      <code><a href="https://dotnet.microsoft.com/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg"></a></code>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="border-radius: 12px; padding: 16px;">
-      <h3>🗄️ Databases</h3>
-      <code><a href="https://mongodb.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"></a></code>
-      <code><a href="https://www.mysql.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"></a></code>
-      <code><a href="https://www.postgresql.org/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"></a></code>
-      <code><a href="https://redis.io/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg"></a></code>
-      <code><a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg"></a></code>
-    </td>
-    <td align="center" style="border-radius: 12px; padding: 16px;">
-      <h3>🛠️ Tools</h3>
-      <code><a href="https://www.docker.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"></a></code>
-      <code><a href="https://git-scm.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></a></code>
-    </td>
-  </tr>
-</table> -->
-
