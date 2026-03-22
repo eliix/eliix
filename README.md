@@ -30,8 +30,8 @@
 
 ```
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eliix&&show_icons=true&theme=react&border_radius=10" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliix&layout=compact&theme=react&border_radius=10" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eliix&&show_icons=true&theme=material-palenight&border_radius=10" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliix&layout=compact&theme=material-palenight&border_radius=10" />
 </p>
 
 ## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Nice to meet you
