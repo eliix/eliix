@@ -1,4 +1,3 @@
-<!-- ![My image](assets/logo.png) -->
 
 <p align="center">
   <img src="assets/logo.png" alt="eliix logo" height="100" width="300">
@@ -11,7 +10,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-B19CD9?style=for-the-badge&logo=linkedin-in&logoColor=white)](https://www.linkedin.com/in/valdezeliana)
 
 </div>
-
 
 ```bash
 
@@ -29,6 +27,7 @@
 ⠀⠀⠀⠀⠀⠘⠿⠀⠀⠀⠀⠀⠈⠉⠙⠒⠒⠛⠉⠁⠀⠀⠀⠉⢳⡞⠉⠀⠀⠀⠀.
 
 ```
+
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eliix&&show_icons=true&theme=material-palenight&border_radius=10" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliix&layout=compact&theme=material-palenight&border_radius=10" />
@@ -67,5 +66,3 @@
 ### Tools
 <code><a href="https://www.docker.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"></a></code>
 <code><a href="https://git-scm.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></a></code>
-
-
