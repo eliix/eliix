@@ -28,10 +28,10 @@
 
 ```
 
-<!-- <p align="center">
+<p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eliix&&show_icons=true&theme=material-palenight&border_radius=10" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliix&layout=compact&theme=material-palenight&border_radius=10" />
-</p> -->
+</p>
 
 ## <img src="https://media.tenor.com/a2m-Y3dLmD0AAAAj/mona-github-loading-github.gif" width="30px"> Nice to meet you
 
