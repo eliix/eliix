@@ -1,6 +1,6 @@
-
 <p align="center">
-  <img src="assets/logo.png" alt="eliix logo" height="100" width="300">
+  <img src="assets/logo.png#gh-dark-mode-only" alt="eliix logo" height="100" width="300">
+  <img src="assets/logo-dark.png#gh-light-mode-only" alt="eliix logo" height="100" width="300">
 </p>
 
 <div align="center">
